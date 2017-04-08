@@ -3,10 +3,10 @@
   <groupId>com.cloudsea.services</groupId>
   <artifactId>cloudsea-commons</artifactId>
   <versioning>
-    <release>0.0.4</release>
+    <release>0.0.5</release>
     <versions>
-      <version>0.0.4</version>
+      <version>0.0.5</version>
     </versions>
-    <lastUpdated>20170408195310</lastUpdated>
+    <lastUpdated>20170408204654</lastUpdated>
   </versioning>
 </metadata>
